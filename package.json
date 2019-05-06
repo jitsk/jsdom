@@ -19,7 +19,7 @@
   "license": "MIT",
   "repository": "jsdom/jsdom",
   "dependencies": {
-    "nwmatcher": "git://github.com/touchlocal/nwmatcher.git#1.3.1b",
+    "nwmatcher": "git://github.com/jitsk/nwmatcher.git#updating_nwmatcher",
     "abab": "^2.0.0",
     "acorn": "^6.0.4",
     "acorn-globals": "^4.3.0",
